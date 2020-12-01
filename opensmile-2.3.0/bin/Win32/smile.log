@@ -1,0 +1,17 @@
+[ 12.05.2019 - 21:47:52 ]
+    (MSG) [2] in SMILExtract : openSMILE starting!
+[ 12.05.2019 - 21:47:52 ]
+    (MSG) [2] in SMILExtract : config file is: C:\Users\imijic\Google Drive\Programs\opensmile-2.3.0\config\compare.conf
+[ 12.05.2019 - 21:47:52 ]
+    (MSG) [2] in cComponentManager : successfully registered 95 component types.
+[ 12.05.2019 - 21:47:52 ]
+    (MSG) [2] in instance 'lldhtksink' : No filename given, disabling this sink component.
+[ 12.05.2019 - 21:47:52 ]
+    (MSG) [2] in instance 'htksink' : No filename given, disabling this sink component.
+[ 12.05.2019 - 21:47:52 ]
+    (MSG) [2] in cComponentManager : successfully finished createInstances
+                                 (46 component instances were finalised, 1 data memories were finalised)
+[ 12.05.2019 - 21:47:52 ]
+    (MSG) [2] in cComponentManager : starting single thread processing loop
+[ 12.05.2019 - 21:47:52 ]
+    (MSG) [2] in cComponentManager : Processing finished! System ran for 116 ticks.
